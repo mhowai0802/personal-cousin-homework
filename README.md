@@ -1,4 +1,4 @@
-# Cousin Homework
+# personal-cousin-homework
 
 A place to organize, track, and work on homework assignments.
 
